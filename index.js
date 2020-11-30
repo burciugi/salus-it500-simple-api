@@ -1,7 +1,5 @@
 const request = require('request');
 
-
-
 // Salus IT500 credentials
 const username = '';
 const password = '';
