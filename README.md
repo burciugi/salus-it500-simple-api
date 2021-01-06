@@ -7,7 +7,7 @@ This is a simple quick and dirty node js script to pool and log Salus IT500 ther
 Use npm to install dependencies.
 
 ```bash
-npm instal
+npm install
 ```
 
 ## Run
